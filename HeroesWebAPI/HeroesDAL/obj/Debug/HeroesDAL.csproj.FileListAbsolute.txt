@@ -1,0 +1,11 @@
+C:\Users\Work\source\repos\HeroesWebAPI\HeroesDAL\bin\Debug\HeroesDAL.dll.config
+C:\Users\Work\source\repos\HeroesWebAPI\HeroesDAL\bin\Debug\HeroesDAL.dll
+C:\Users\Work\source\repos\HeroesWebAPI\HeroesDAL\bin\Debug\HeroesDAL.pdb
+C:\Users\Work\source\repos\HeroesWebAPI\HeroesDAL\bin\Debug\EntityFramework.dll
+C:\Users\Work\source\repos\HeroesWebAPI\HeroesDAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Work\source\repos\HeroesWebAPI\HeroesDAL\bin\Debug\EntityFramework.xml
+C:\Users\Work\source\repos\HeroesWebAPI\HeroesDAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Work\source\repos\HeroesWebAPI\HeroesDAL\obj\Debug\HeroesDAL.csproj.CoreCompileInputs.cache
+C:\Users\Work\source\repos\HeroesWebAPI\HeroesDAL\obj\Debug\HeroesDAL.csproj.CopyComplete
+C:\Users\Work\source\repos\HeroesWebAPI\HeroesDAL\obj\Debug\HeroesDAL.dll
+C:\Users\Work\source\repos\HeroesWebAPI\HeroesDAL\obj\Debug\HeroesDAL.pdb
