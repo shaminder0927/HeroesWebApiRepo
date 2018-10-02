@@ -18,8 +18,7 @@ namespace HeroesWebAPI.Controllers
           new HeroApi {id= 14, name="Hulk", power="powerhouse of strength" },
           new HeroApi {id= 15, name= "Spiderman", power= "has speed and can fly" },
           new HeroApi {id= 16, name= "Thor", power= "has thunder power" },
-          new HeroApi {id= 17, name= "Rock", power= "can smash" },
-          new HeroApi {id= 19, name= "Hulk", power= "is super strong"}
+          new HeroApi {id= 17, name= "Rock", power= "can smash" }
         };
 
         public IEnumerable<HeroApi> GetAllHeroes() {
